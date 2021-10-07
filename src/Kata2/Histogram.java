@@ -1,4 +1,4 @@
-package kata2;
+package Kata2;
 
 import java.util.HashMap;
 import java.util.Map;
